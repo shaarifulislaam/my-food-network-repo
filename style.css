@@ -3,5 +3,41 @@ body{
     padding: 0px;
     font-family: 'Bree Serif', serif;
     font-family: 'Public Sans', sans-serif;
-
+}
+.flexiable-container{
+    display: flex;
+    margin-bottom: 30px;
+}
+.container{
+   width: 50%;
+   margin-left: 50px;
+   margin-top: 100px;
+}
+.container img{
+    width: 80%;
+}
+p{
+    color: dimgray;
+    text-align: justify;
+}
+.title-header{
+    color: orangered;
+}
+h1{
+    font-weight: 900;
+    font-size: 50px;
+    color: #555151;
+}
+h3{
+    color: #beb4b4;
+    margin-bottom: 50px;
+}
+.link-button{
+    
+    text-decoration: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    color: #fff;
+    background-image: linear-gradient(orange ,tomato);
+   
 }
