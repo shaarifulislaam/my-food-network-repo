@@ -6,7 +6,7 @@ body{
 }
 .flexiable-container{
     display: flex;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
 }
 .container{
    width: 50%;
@@ -40,4 +40,13 @@ h3{
     color: #fff;
     background-image: linear-gradient(orange ,tomato);
    
+}
+.about-banner{
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+}
+.container p{
+    text-align: justify;
+    padding-right: 200px;
+    margin-bottom: 80px;
 }
