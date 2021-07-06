@@ -67,8 +67,8 @@ h3{
     margin: 3%;
     padding: 20px;
     border-radius: 30px;
-    box-shadow: 10px 10px 20px gray;
-    
+    box-shadow: 5px 5px 20px gray;
+    margin-bottom: 100px;    
 }
 .food-item-area img{
     width: 100%;
@@ -77,16 +77,35 @@ h3{
 .food-item{
     padding-right: 50px;
 }
+
+h2{
+    color: #beb4b4;
+
+}
+.optional{
+    width: 80%;
+    margin-left: 150px;
+    border-radius: 30px;
+    box-shadow: 2px 2px 20px gray;
+    margin-bottom: 100px;
+}
+.optional-width{
+    width: 30%;
+    padding: 30px;
+    margin-left: 80px;
+    
+   
+}
+.optional-width h1,h3{
+    color: black;
+}
+
 footer{
     text-align: center;
     background-color: black;
-    
     padding: 80px;
 }
 footer p{
     text-align: center;
     color: white;
-}
-h2{
-    color: #beb4b4;
 }
